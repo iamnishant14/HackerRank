@@ -1,2 +1,2 @@
 # HackerRank
-Solutin to solved HackerRank Questions.
+Solution to solved HackerRank Questions.
